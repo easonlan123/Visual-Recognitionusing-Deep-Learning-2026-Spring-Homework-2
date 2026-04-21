@@ -5,7 +5,7 @@
 
 ## Introduction
 
-I leveraged a  ResNet-101 architecture pre-trained on the ImageNet-1K dataset. This allows the model to utilize sophisticated, pre-learned visual features (edges, textures, and shapes) and then I fine-tune them to adapt this specific 100-class problem.
+ The core idea is to build a DETR-based detector with pretrained weight ResNet-50 backbone by emphasizing localization early and focus on classification later.
 
 ---
 
