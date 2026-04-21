@@ -25,16 +25,17 @@ pip install -r requirements.txt
 folder format:  
 folder  
 &emsp; nycu-hw2-data  
+&emsp;&emsp; valid.json
+&emsp;&emsp; train.json
+&emsp; model.py 
+&emsp; test.py
 &emsp;&emsp;train  
 &emsp;&emsp;&emsp; images  
 &emsp;&emsp; test  
 &emsp;&emsp;&emsp; images  
 &emsp;&emsp; val  
 &emsp;&emsp;&emsp; images 
-&emsp;&emsp; valid.json
-&emsp;&emsp; train.json
-&emsp; model.py 
-&emsp; test.py
+
 
 It will train the model. You will have to download best_model.pth from [https://drive.google.com/file/d/1W5Uhz5gB_GPxXubUMzlxlO4LAEdoTtzU/view?usp=sharing](https://drive.google.com/file/d/1rsaeM6yiax2zokw2Rem5_tSxVB6Cdw4X/view?usp=sharing) or e3 first because my Git large file just doesn't seems to be working.
 
