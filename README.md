@@ -51,4 +51,4 @@ python test.py
 
 ## Performance Snapshot
 
-<img width="1182" height="52" alt="Image" src="https://github.com/user-attachments/assets/6e1f3e82-48ad-47b5-ab6c-02d03c91ee6b" />
+<img width="1182" height="52" alt="Image" src="leaderboard.png" />
