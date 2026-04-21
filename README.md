@@ -27,10 +27,10 @@ folder
 &emsp; nycu-hw2-data  
     &emsp;&emsp;train  
       &emsp;&emsp;&emsp;images  
-   &emsp;&emsp; test  
-     &emsp;&emsp;&emsp; images  
+    &emsp;&emsp; test  
+      &emsp;&emsp;&emsp; images  
     &emsp;&emsp; val  
-     &emsp;&emsp;&emsp; images 
+      &emsp;&emsp;&emsp; images 
     &emsp;&emsp; valid.json
     &emsp;&emsp; train.json
  &emsp; model.py 
