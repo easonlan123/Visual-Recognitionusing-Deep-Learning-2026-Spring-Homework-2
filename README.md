@@ -24,8 +24,11 @@ pip install -r requirements.txt
 
 folder format:  
 folder 
+
 &emsp; model.py 
+
 &emsp; test.py  
+
 &emsp; nycu-hw2-data  
 &emsp;&emsp; train  
 &emsp;&emsp;&emsp; images  
@@ -33,7 +36,9 @@ folder
 &emsp;&emsp;&emsp; images  
 &emsp;&emsp; val  
 &emsp;&emsp;&emsp; images 
+
 &emsp;&emsp; valid.json 
+
 &emsp;&emsp; train.json 
 
 
