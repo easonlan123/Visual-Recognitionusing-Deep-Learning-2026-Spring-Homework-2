@@ -25,7 +25,7 @@ pip install -r requirements.txt
 folder format:  
 folder  
 &emsp; nycu-hw2-data  
-&emsp;&emsp; train  
+&emsp;&emsp;train  
 &emsp;&emsp;&emsp; images  
 &emsp;&emsp; test  
 &emsp;&emsp;&emsp; images  
