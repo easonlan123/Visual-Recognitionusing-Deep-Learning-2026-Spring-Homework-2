@@ -1,0 +1,6 @@
+torch
+torchvision
+pycocotools
+scipy
+tqdm
+Pillow
